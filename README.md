@@ -7,3 +7,5 @@ This is a program that will convert a temperature from
   Celsius or Fahrenheit can be selected as the scale that the
   number should be converted to. Then a button that,
   when clicked, displays the converted.
+  
+  The javascript uses simple functions and if statements to perform the conversions.
